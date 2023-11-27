@@ -1,0 +1,25 @@
+.aboutContent h2{
+    padding: 4rem;
+}
+
+.aboutContent p{
+    color: white;
+}
+
+.aboutContent section:nth-child(2){
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 4rem;
+}
+
+.aboutText{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.aboutContent img{
+    width: 50px;
+}

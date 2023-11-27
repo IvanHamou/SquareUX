@@ -1,0 +1,32 @@
+.homeContent{
+    background-image: url("./src/assets/image 1 (1).png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #1E1E1E;
+    color: white;
+    text-align: center;
+    gap: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.homeContent section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    padding: 0rem 22rem;    
+}
+
+.homeContent h1{
+    font-size: 4rem;
+}
+
+.homeContent p{
+    font-size: 1.5rem;
+}
+
